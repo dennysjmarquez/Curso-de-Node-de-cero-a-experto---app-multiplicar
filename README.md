@@ -7,4 +7,6 @@ multiplicar
 
 Ejecutar este comando
 
-`npm install`
+```console
+npm install
+```
